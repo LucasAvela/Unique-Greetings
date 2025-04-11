@@ -1,26 +1,26 @@
 # Welcome to the "Hello, World!" Repository
 
-O famoso "Hello, World!" é a maior tradição na programação, sendo o primeiro código que muitos aprendem e o primeiro resultado após intensos, complexos e aparentemente intermináveis 10 minutos de tutorial no YouTube.
+The famous "Hello, World!" is the greatest tradition in programming—often the first code many people learn and the first result after an intense, complex, and seemingly endless 10-minute YouTube tutorial.
 
-## Sobre este Repositório
+## About This Repository
 
-Neste repositório, você encontrará uma coleção de scripts que implementam o clássico "Hello, World!" de maneiras criativas e únicas. O objetivo deste projeto é demonstrar e explorar diferentes abordagens para realizar uma tarefa simples de forma inovadora.
+In this repository, you'll find a collection of scripts that implement the classic "Hello, World!" in creative and unique ways. The goal of this project is to demonstrate and explore different approaches to accomplishing a simple task in innovative ways.
 
-Sinta-se à vontade para contribuir com seus próprios scripts ou explorar as implementações existentes. A diversidade de abordagens é bem-vinda e incentivada!
+Feel free to contribute your own scripts or explore the existing implementations. Diversity in approaches is welcome and encouraged!
 
-## Como Contribuir
+## How to Contribute
 
-Se você tiver uma ideia interessante para implementar o "Hello, World!" ou deseja melhorar uma implementação existente, siga estas etapas para contribuir:
+If you have an interesting idea for implementing "Hello, World!" or want to improve an existing implementation, follow these steps to contribute:
 
-**Adicione seu próprio script:** Sinta-se à vontade para contribuir com sua própria implementação de "Hello, World!" de uma maneira criativa.
+**Add your own script:** You're welcome to contribute your own creative implementation of "Hello, World!".
 
-**Melhore os scripts existentes:** Você também pode contribuir melhorando os scripts existentes, adicionando comentários, otimizando o código ou propondo novas ideias para tornar a saída ainda mais original.
+**Improve existing scripts:** You can also contribute by enhancing existing scripts, adding comments, optimizing code, or suggesting new ideas to make the output even more original.
 
-**Reporte problemas:** Se encontrar algum problema ou tiver uma ideia para melhorar o projeto, por favor, abra uma issue. Sua contribuição é muito bem-vinda!
+**Report issues:** If you find any problems or have ideas to improve the project, please open an issue. Your contribution is very much appreciated!
 
-1. Crie uma nova branch com sua adição ou correção: `git checkout -b minha-contribuicao`.
-2. Faça commit das suas mudanças: `git commit -am 'Adicionando minha contribuição'`.
-3. Faça push para a branch: `git push origin minha-contribuicao`.
-4. Envie um pull request.
+1. Create a new branch for your addition or fix: `git checkout -b my-contribution`.
+2. Commit your changes: `git commit -am 'Adding my contribution'`.
+3. Push to the branch: `git push origin my-contribution`.
+4. Submit a pull request.
 
-Após revisão, suas contribuições serão mescladas neste repositório. Obrigado por ajudar a tornar este projeto ainda mais diversificado e inovador!
+After review, your contributions will be merged into this repository. Thank you for helping make this project even more diverse and innovative!
